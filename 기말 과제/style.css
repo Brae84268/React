@@ -1,0 +1,29 @@
+.box-office-container {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .box-office-title {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .box-office-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .box-office-item {
+    background-color: #FFE4C4;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .box-office-item span {
+    font-weight: bold;
+    margin-right: 10px;
+  }
